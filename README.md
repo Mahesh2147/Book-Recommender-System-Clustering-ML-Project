@@ -3,8 +3,8 @@
 ### Step-by-Step Code Execution
 ### Load Libraries:
 
-1.numpy and pandas for data manipulation.
-
+```numpy and pandas for data manipulation.
+```
 ### Read and Explore Datasets:
 
 1.Books.csv: Contains book details like title, author, year, and publisher.
