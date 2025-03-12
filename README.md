@@ -43,5 +43,5 @@ numpy and pandas for data manipulation.
 ```
 ### Conclusion
 
-1.The recommender system effectively refines the dataset before making recommendations. The approach uses collaborative filtering to suggest books based on similar users or books. Improvements can include content-based filtering (using book descriptions) or hybrid models to enhance accuracy.
+The recommender system effectively refines the dataset before making recommendations. The approach uses collaborative filtering to suggest books based on similar users or books. Improvements can include content-based filtering (using book descriptions) or hybrid models to enhance accuracy.
 
