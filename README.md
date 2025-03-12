@@ -17,7 +17,7 @@ numpy and pandas for data manipulation.
 1.Columns are renamed for consistency.
 2.Dataset shapes are displayed to understand data volume.
 ```
-###Filtering Data Based on Criteria:
+### Filtering Data Based on Criteria:
 ```
 1.Only users who rated more than 200 books are considered.
 2.Only books that have at least 50 ratings are included.
@@ -42,8 +42,8 @@ numpy and pandas for data manipulation.
 3.Popular books and highly active users have a stronger influence on the recommendations.
 ```
 ### Conclusion
-```
+
 1.The recommender system effectively refines the dataset before making recommendations.
 2.The approach uses collaborative filtering to suggest books based on similar users or books.
 3.Improvements can include content-based filtering (using book descriptions) or hybrid models to enhance accuracy.
-```
+
